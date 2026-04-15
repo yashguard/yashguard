@@ -56,31 +56,168 @@ Actively exploring the intersection of software and AI, building with LLMs, Lang
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,framer,electron,html,css,js&perline=10" />
-<br/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS"/><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux"/><br/>
+      <sub><b>Redux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" height="40" alt="Framer Motion"/><br/>
+      <sub><b>Framer</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=electron" width="40" height="40" alt="Electron"/><br/>
+      <sub><b>Electron</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/><br/>
+      <sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/><br/>
+      <sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React Native"/><br/>
+      <sub><b>React Native</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="40" height="40" alt="Expo"/><br/>
+      <sub><b>Expo</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,graphql&perline=10" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI"/><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL"/><br/>
+      <sub><b>GraphQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma&perline=10" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis"/><br/>
+      <sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="Prisma"/><br/>
+      <sub><b>Prisma</b></sub>
+    </td>
+  </tr>
+</table>
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,nginx,vercel,git,githubactions,linux&perline=10" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/><br/>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx"/><br/>
+      <sub><b>Nginx</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel"/><br/>
+      <sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions"/><br/>
+      <sub><b>GH Actions</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
 
 **AI & Automation**
 
-<img src="https://skillicons.dev/icons?i=openai" />
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Workflows-8A2BE2?style=flat-square&logoColor=white" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/openai.png?size=40" width="40" height="40" alt="OpenAI"/><br/>
+      <sub><b>OpenAI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/><br/>
+      <sub><b>LangChain</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n"/><br/>
+      <sub><b>n8n</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/anthropic/191919" width="40" height="40" alt="Claude"/><br/>
+      <sub><b>Claude</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -98,8 +235,8 @@ Actively exploring the intersection of software and AI, building with LLMs, Lang
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=yashguard&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
-    <img src="https://github-profile-trophy.vercel.app/?username=yashguard&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=6" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yashguard&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=aaaaaa" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yashguard&show_icons=true&theme=default&hide_border=true" height="160" />
   </picture>
 </div>
 
