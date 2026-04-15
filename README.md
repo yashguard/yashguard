@@ -45,7 +45,7 @@ Full Stack Engineer with 2+ years of experience and 10+ projects shipped. Specia
 
 Actively exploring the intersection of software and AI, building with LLMs, LangChain, OpenAI API, and automation workflows to create intelligent systems that go beyond conventional web development.
 
-- Website — [yashguard.in](https://yashguard.in)
+- Website: [yashguard.in](https://yashguard.in)
 - Based in India
 - 2+ years experience, 10+ projects delivered
 - Currently exploring AI workflows, LLMs, and vibe coding
