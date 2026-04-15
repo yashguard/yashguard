@@ -213,7 +213,7 @@ Actively exploring the intersection of software and AI, building with LLMs, Lang
       <sub><b>n8n</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/anthropic/191919" width="40" height="40" alt="Claude"/><br/>
+      <img src="https://github.com/anthropics.png?size=40" width="40" height="40" alt="Claude"/><br/>
       <sub><b>Claude</b></sub>
     </td>
   </tr>
