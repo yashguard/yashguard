@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=600&height=35&lines=Full+Stack+Engineer;MERN+Stack+Developer;React+Native+Developer;AI+Integration+%26+LLM+Explorer;Building+scalable+production+software" alt="Roles" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Engineer;MERN+Stack+Developer;React+Native+Developer;AI+Integration+%26+LLM+Explorer;Building+scalable+production+software" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Engineer;MERN+Stack+Developer;React+Native+Developer;AI+Integration+%26+LLM+Explorer;Building+scalable+production+software" alt="Roles" />
+  </picture>
 </div>
 
 <br/>
@@ -53,57 +56,31 @@ Actively exploring the intersection of software and AI, building with LLMs, Lang
 
 **Frontend**
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,framer,electron,html,css,js&perline=10&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,framer,electron,html,css,js&perline=10&theme=light" />
-  </picture>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,framer,electron,html,css,js&perline=10" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 
 **Backend**
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,graphql&perline=10&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,graphql&perline=10&theme=light" />
-  </picture>
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,graphql&perline=10" />
 
 **Database**
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma&perline=10&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma&perline=10&theme=light" />
-  </picture>
-</div>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma&perline=10" />
 
 **DevOps & Tools**
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,aws,nginx,vercel,git,githubactions,linux&perline=10&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=docker,aws,nginx,vercel,git,githubactions,linux&perline=10&theme=light" />
-  </picture>
-</div>
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,vercel,git,githubactions,linux&perline=10" />
 
 **AI & Automation**
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=openai&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=openai&theme=light" />
-  </picture>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Workflows-8A2BE2?style=flat-square&logoColor=white" />
-</div>
+<img src="https://skillicons.dev/icons?i=openai" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Workflows-8A2BE2?style=flat-square&logoColor=white" />
 
 ---
 
