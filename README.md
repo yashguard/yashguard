@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=600&height=35&lines=Full+Stack+Engineer;MERN+Stack+Developer;React+Native+Developer;AI+Integration+%26+LLM+Explorer;Building+scalable+production+software" alt="Roles" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://yashguard.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-yashguard.in-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -23,14 +29,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashguard&label=Profile%20Views&color=4f8ef7&style=flat-square" alt="yashguard" />
+  <img src="https://komarev.com/ghpvc/?username=yashguard&label=Profile%20Views&color=0969da&style=flat-square" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Full+Stack+Engineer;MERN+Stack+Developer;React+Native+Developer;AI+Integration+%26+LLM+Explorer;Building+scalable+software+solutions" alt="Typing SVG" />
-</div>
 
 ---
 
@@ -38,7 +40,7 @@
 
 Full Stack Engineer with 2+ years of experience and 10+ projects shipped. Specializing in the MERN stack with production experience across SaaS, e-commerce, and mobile applications. Comfortable owning an entire product independently — from database schema and API architecture to polished frontends and deployment.
 
-Actively exploring the intersection of software and AI, building with LLMs, LangChain, OpenAI API, and automation workflows using tools like n8n to create intelligent systems that go beyond conventional web development.
+Actively exploring the intersection of software and AI, building with LLMs, LangChain, OpenAI API, and automation workflows to create intelligent systems that go beyond conventional web development.
 
 - Website — [yashguard.in](https://yashguard.in)
 - Based in India
@@ -52,37 +54,56 @@ Actively exploring the intersection of software and AI, building with LLMs, Lang
 **Frontend**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,framermotion&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,framer,electron,html,css,js&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,framer,electron,html,css,js&perline=10&theme=light" />
+  </picture>
 </div>
 <div>
-  <img src="https://skillicons.dev/icons?i=reactnative,expo,electron,html,css,js&theme=dark" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 </div>
 
 **Backend**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,graphql&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,graphql&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,graphql&perline=10&theme=light" />
+  </picture>
 </div>
 
 **Database**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,prisma&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma&perline=10&theme=light" />
+  </picture>
 </div>
 
 **DevOps & Tools**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,vercel,git,githubactions,linux&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,aws,nginx,vercel,git,githubactions,linux&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,nginx,vercel,git,githubactions,linux&perline=10&theme=light" />
+  </picture>
 </div>
 
 **AI & Automation**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=openai&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=openai&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=openai&theme=light" />
+  </picture>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Workflows-8A2BE2?style=flat-square&logoColor=white" />
 </div>
-
-`LangChain` &nbsp;|&nbsp; `LLMs` &nbsp;|&nbsp; `n8n` &nbsp;|&nbsp; `Prompt Engineering` &nbsp;|&nbsp; `AI Workflows`
 
 ---
 
@@ -90,27 +111,63 @@ Actively exploring the intersection of software and AI, building with LLMs, Lang
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **ElegantJewels** | Full-stack e-commerce platform with 7-role RBAC, real-time analytics via Socket.io, and Razorpay payment integration | React, Express, MongoDB, Socket.io, Razorpay | [Live](https://jewellery-frontend-opal.vercel.app/) |
-| **WalletSync** | Production SaaS budget planner with end-to-end Stripe subscriptions, Firebase OAuth, and custom dashboard layout | Next.js, React, MongoDB, Stripe, Firebase | [Live](https://walletsync.app/) |
-| **Lace Inventory Manager** | React Native mobile app that replaced a handwritten business diary of 800+ entries, shipped in under 7 hours | React Native, Expo, TypeScript, Google Sheets API | [Post](https://www.linkedin.com/posts/yash-guard-205a49240_reactnative-javascript-ai-ugcPost-7434484166613790720-2nKY) |
+| **ElegantJewels** | Full-stack e-commerce platform with 7-role RBAC, real-time analytics via Socket.io, and Razorpay payment integration | React, Express, MongoDB, Socket.io | [Live](https://jewellery-frontend-opal.vercel.app/) |
+| **WalletSync** | Production SaaS budget planner with end-to-end Stripe subscriptions, Firebase OAuth, and custom dashboard | Next.js, MongoDB, Stripe, Firebase | [Live](https://walletsync.app/) |
+| **Lace Inventory Manager** | React Native app replacing a handwritten business diary of 800+ entries, shipped in under 7 hours using AI tools | React Native, Expo, Google Sheets API | [Post](https://www.linkedin.com/posts/yash-guard-205a49240_reactnative-javascript-ai-ugcPost-7434484166613790720-2nKY) |
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashguard&theme=tokyonight" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashguard&theme=tokyonight" height="170" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=yashguard&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yashguard&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  </picture>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashguard&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f8ef7&ring=4f8ef7&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashguard&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashguard&theme=github" height="160" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashguard&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashguard&theme=github" height="160" />
+  </picture>
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=120&section=footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=yashguard&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=yashguard&theme=default&hide_border=true" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yashguard&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashguard&theme=github-compact&hide_border=true&area=true" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Full Stack Engineer · MERN Stack · React Native · AI Integration · yashguard.in</sub>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:1f2a4a,100:0d1117&height=120&section=footer" />
 </div>
 
 <!-- SEO: Yash Guard, yashguard, Full Stack Developer, MERN Stack Developer, React Developer, Next.js Developer, Node.js Developer, React Native Developer, TypeScript Developer, Python Developer, AI Integration Developer, LLM Developer, Web Developer India, yashguard.in, Full Stack Engineer India -->
