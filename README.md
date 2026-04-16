@@ -27,6 +27,10 @@
   <a href="mailto:yashguard2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/32626702/yash-guard?tab=profile" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Yash%20Guard-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
 </div>
 
 <br/>
