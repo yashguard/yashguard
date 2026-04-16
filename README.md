@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Yash%20Guard-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/yashguard" target="_blank">
+  <a href="https://instagram.com/yashguard.in" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-yashguard-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
